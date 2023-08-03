@@ -20,6 +20,8 @@ Here is a sample layout of what the  credentials.json file should look like.
 
 To find the network id of the piazza class, a piazza url is of the following format: https://piazza.com/class/NETWORKID
 It will have a combination of letters and numbers.
+
+Currently, there is only support for 2 classes.
 ```
 {
     "email": "georgepburdell@gatech.edu",
