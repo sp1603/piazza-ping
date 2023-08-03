@@ -8,14 +8,14 @@ git clone https://github.com/sp1603/piazza-ping
 cd piazza-ping
 pip install -r requirements.txt
 ```
-Once installed you will need to configure a credentials.json file (see Configuration) and then run the following command.
+Once installed you will need to configure a ```credentials.json``` file (see Configuration) and then run the following command.
 ```
 python piazza_ping.py
 ```
 
 # Configuration
 
-You will need to create a credentials.json file as piazza requires login information as well as class codes.
+You will need to create a ```credentials.json``` file as piazza requires login information as well as class codes.
 Here is a sample layout of what the  credentials.json file should look like.
 
 To find the network id of the piazza class, a piazza url is of the following format: https://piazza.com/class/NETWORKID
