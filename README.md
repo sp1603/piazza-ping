@@ -1,6 +1,6 @@
 # piazza-ping
 # About
-Piazza Ping is a simple utility tool desgined to help students stay updated about new unread posts in their Piazza class forum. It checks for new posts and sends instant notifications to users on their desktop.
+Piazza Ping is a simple utility tool designed to help students stay updated about new unread posts in their Piazza class forum. It checks for new posts and sends instant notifications to users on their desktop.
 Piazza's internal API is currently private, however an unofficial client for the API was able to be used instead: https://github.com/hfaran/piazza-api
 # Installation
 ```
